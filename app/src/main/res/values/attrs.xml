@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="highlightedButtonPrimaryColor"/>
+    <attr format="color" name="highlightedButtonSecondaryColor"/>
+    <attr format="color" name="secondaryTextColor"/>
+</resources>

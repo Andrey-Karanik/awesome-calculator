@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#ffffff</color>
+    <color name="primaryColorDark">#dddddd</color>
+    <color name="onPrimaryColor">#000000</color>
+    <color name="secondaryColor">#ffba66</color>
+    <color name="highlightedButtonPrimaryColor">#dddddd</color>
+    <color name="highlightedButtonSecondaryColor">#ffa42e</color>
+    <color name="secondaryTextColor">#777777</color>
+</resources>
